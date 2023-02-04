@@ -1,0 +1,168 @@
+
+
+{
+    "phcnForm": [
+
+
+        {
+           
+            "name": "metreno",
+           "label": "Metre No",
+            "type": "text"
+            
+        },
+
+        {
+           
+            "name": "location",
+           "label": "Location",
+            "type": "text"
+            
+        },
+
+        {
+            "name": "phonenumber",
+            "label": "Phonenumber",
+            "type": "number"
+             
+          
+        
+        },
+
+        {
+            "name": "email",
+            "label": "email",
+            "type": "email"
+             
+          
+        
+        },
+        {
+            "name": "amount recharging",
+            "label": "Amount Recharging",
+            "type": "email"
+             
+          
+        
+        }
+
+
+        
+
+    ],
+    "lawmaForm": [
+
+
+        {
+           
+            "name": "brand",
+           "label": "Brand of Vehicle",
+            "type": "text"
+            
+        },
+
+        {
+           
+            "name": "model",
+           "label": "Model of Vehicle",
+            "type": "text"
+            
+        },
+
+        {
+            "name": "year",
+            "label": "Vehicle Year",
+            "type": "date"
+             
+          
+        
+        },
+        {
+            "name": "platenumber",
+            "label": "Plate Number",
+            "type": "text"
+             
+          
+        
+        },
+        {
+            "name": "referncenumber",
+            "label": "Refernce Number",
+            "type": "text"
+             
+          
+        
+        },
+        {
+            "name": "nameofowner",
+            "label": "Name of Owner",
+            "type": "text"
+             
+          
+        
+        },
+        {
+            "name": "amount",
+            "label": "Amount",
+            "type": "text"
+             
+          
+        
+        },
+        {
+            "name": "phonenumber",
+            "label": "Phonenumber",
+            "type": "number"
+             
+          
+        
+        },
+        {
+            "name": "email",
+            "label": "email",
+            "type": "email"
+             
+          
+        
+        }
+
+
+
+        
+
+    ],
+
+    "departmentForm": [
+
+
+        {
+           
+            "name": "nameofschool",
+           "label": "Name of school",
+            "type": "text"
+            
+        },
+
+        {
+           
+            "name": "amount",
+           "label": "Amount",
+            "type": "text"
+            
+        },
+
+        {
+            "name": "department",
+            "label": "Department",
+            "type": "text"
+             
+          
+        
+        }
+
+
+        
+
+    ]
+}
+
